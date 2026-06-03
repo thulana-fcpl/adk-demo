@@ -15,13 +15,13 @@ By the end, the team should be able to:
 Create or replace `requirements.txt` in the project root:
 
 ```txt
-google-adk>=2.1.0
-google-cloud-aiplatform[adk,agent_engines]>=1.146.0
-google-genai>=1.66.0
-google-api-python-client>=2.0.0
-google-cloud-storage>=2.0.0
-a2a-sdk>=0.3.4,<0.4.0
-python-dotenv>=1.0.0
+google-adk
+google-cloud-aiplatform[adk,agent_engines]
+google-genai
+google-api-python-client
+google-cloud-storage
+a2a-sdk
+python-dotenv
 ```
 
 ## 2. Create and Activate a Virtual Environment
