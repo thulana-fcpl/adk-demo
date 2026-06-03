@@ -62,7 +62,7 @@ For Google AI Studio API key usage:
 
 ```bash
 GOOGLE_GENAI_USE_VERTEXAI=FALSE
-GOOGLE_API_KEY=AQ.Ab8RN6JnE1f6ix6qIqkW5nr-tQJgmd5RkarfsY_sPApTvjlUsA
+GOOGLE_API_KEY=key
 ```
 
 For Vertex AI usage:
